@@ -1,0 +1,35 @@
+Minuta:
+
+  	Puntos :
+ 
+              * Reforma: se debe investigar más sobre lo que abarca implementar el cambio de una malla,
+	          (Responsable: César Araya) Plazo 5 dias.
+
+              * Sistema evaluador de vocación: Se puede fortalecer más la idea, falta aclarar objetivos.
+                  (Responsable: Rodrigo Verdugo) Plazo 5 dias
+              * Aplicacion Mobil "Oferta": La idea es una de las más fuertes y claras, aunque falta definir objetivos claros y documentarlos(reseña).(Responsable: Daisy Zambrano)
+                  > Se expuso información sobre tecnologias que se pueden implementar, framework que podemos utilizar, dentro de los cuales esta JQuery Mobile(se adjunta información)
+	      * Se propone herramieta wrike, para gestionar carta gantt.(Por discutir)
+
+Wrike:
+https://www.wrike.com/
+
+Información :
+http://www.programacion.com/articulo/10_framework_para_desarrollar_aplicaciones_para_dispositivos_moviles_basadas_en_html_498
+http://phonegap.com/about/feature/
+http://jquerymobile.com/
+
+
+estadistica framework :
+http://www.markus-falk.com/mobile-frameworks-comparison-chart/
+
+* Algunos comentarios de la web:
+° Utilizar el framework que este de moda en ese momento. Aquí corremos el riesgo de que la moda sea pasajera y el soporte desaparezca en poco tiempo.
+° Utilizar una tecnología que se conozca bien, porque se haya utilizado en anteriores WebApps o en otro tipo de desarrollos.
+El problema de esta opción es que puede no ser la más indicada para el desarrollo de Apps. Intentar predecir el framework que se impondrá. 
+Puede ser la mejor alternativa, aunque depende mucho de nuestra capacidad para predecir el futuro y existe un alto riesgo de equivocarse.
+              
+
+PD: comentario de minuta, poner como observación en github               
+
+
